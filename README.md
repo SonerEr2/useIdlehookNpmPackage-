@@ -1,10 +1,6 @@
 # useIdlehookNpmPackage-
 Installation npm i @sonerer/npmpaket
 
-[![NPM version](https://img.shields.io/npm/v/use-idle-hook.svg)](https://www.npmjs.com/package/use-idle-hook)
-[![Build](https://github.com/SonerEr2/useIdlehookNpmPackage-/actions/workflows/build.yml/badge.svg)](https://github.com/SonerEr2/useIdlehookNpmPackage-/actions/workflows/build.yml)
-![TypeScript](https://img.shields.io/badge/TypeScript-%5E5.7.3-blue)
-[![License](https://img.shields.io/github/license/SonerEr2/useIdlehookNpmPackage-.svg)](https://github.com/SonerEr2/useIdlehookNpmPackage-/blob/main/LICENSE)
 
 use-idle-hook is a lightweight React hook that tracks user activity (mouse movements, keyboard inputs, clicks, etc.) and determines whether the user is idle after a specified timeout period.
 
